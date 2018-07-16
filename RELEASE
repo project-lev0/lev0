@@ -1,11 +1,4 @@
-2018-07-14
-1.0.0-pre1
 ==========
-
-first release
-
-==========
-
 2018-07-16
 1.0.0-pre2
 ==========
@@ -14,3 +7,12 @@ first release
 - [Viewer] Add image load fail fallback
 - [Common] enable config in exh
 - [List] Add Exception on search result not found
+
+==========
+2018-07-14
+1.0.0-pre1
+==========
+
+first release
+
+==========
