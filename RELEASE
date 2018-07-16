@@ -7,6 +7,7 @@
 - [Viewer] Add image load fail fallback
 - [Common] enable config in exh
 - [List] Add Exception on search result not found
+- [List] hide flagged content(using exh config)
 
 ==========
 2018-07-14
