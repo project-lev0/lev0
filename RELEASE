@@ -3,3 +3,14 @@
 ==========
 
 first release
+
+==========
+
+2018-07-16
+1.0.0-pre2
+==========
+
+- [Viewer] Add Fullscreen mode
+- [Viewer] Add image load fail fallback
+- [Common] enable config in exh
+- [List] Add Exception on search result not found
